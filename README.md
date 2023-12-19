@@ -11,9 +11,10 @@ Hey there! 👋 I'm Elise, an industrial engineer turned tech enthusiast with a 
 
 ### 1. Deep Fake Voice Recognition
 
-- **Objective:** Detecting fake audios using RVC models.
+- **Objective:** Detecting fake audios using XGBoost models.
 - **Process:**
   - Curated real and synthetic audio data.
+  - Generated fake voice with a RVC pre-trained model.
   - Trained an XGBoost Classifier and built a detection API using FastAPI.
 - **Deployment:** Hosted on Google Cloud, including a user-friendly website.
 
