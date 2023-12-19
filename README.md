@@ -1,6 +1,6 @@
 # Introduction
 
-Hey there! 👋 I'm [Your Name], an industrial engineer turned tech enthusiast with a knack for diving into cutting-edge projects across industries and continents.
+Hey there! 👋 I'm Elise, an industrial engineer turned tech enthusiast with a knack for diving into cutting-edge projects across industries and continents.
 
 - 🎓 Graduated in 2017 as an industrial engineer.
 - ✈️ Started my career in France within the aeronautic sector and later became a Technical Manager in Montreal.
