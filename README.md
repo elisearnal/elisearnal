@@ -7,6 +7,12 @@ Hey there! 👋 I'm Elise, an industrial engineer turned tech enthusiast with a 
 - 💡 Acquired diverse industrial knowledge, spearheading projects in optimization, digital transformation, and team management.
 - 🐍 Discovered my passion for programming, specializing in Python and venturing into data science and AI.
 
+## Languages and tools
+![image](https://www.docker.com/))
+
+
+docker gcp pandas python scikit_learn seaborn tensorflow
+
 ## Featured Projects
 
 ### 1. Deep Fake Voice Recognition
