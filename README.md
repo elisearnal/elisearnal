@@ -8,7 +8,9 @@ Hey there! 👋 I'm Elise, an industrial engineer turned tech enthusiast with a 
 - 🐍 Discovered my passion for programming, specializing in Python and venturing into data science and AI.
 
 ## Languages and tools
-![image](https://www.docker.com/))
+![image](https://github.com/elisearnal/elisearnal/assets/146994323/6e18fe95-be3e-4339-a2f3-85f1711471f2)
+
+![image](https://www.docker.com/)
 
 
 docker gcp pandas python scikit_learn seaborn tensorflow
